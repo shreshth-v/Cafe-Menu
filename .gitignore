@@ -1,0 +1,32 @@
+# Ignore node_modules for both frontend and backend
+cafe-menu-backend/node_modules/
+cafe-menu-frontend/node_modules/
+
+# Ignore .env files for both frontend and backend
+cafe-menu-backend/.env
+cafe-menu-frontend/.env
+
+# Ignore build files
+frontend/build/
+backend/build/
+
+# Ignore logs
+logs/
+*.log
+npm-debug.log*
+
+# Ignore build and cache folders for deployment
+cafe-menu-frontend/.vercel/
+cafe-menu-frontend/.cache/
+cafe-menu-backend/.cache/
+cafe-menu-frontend/build/
+cafe-menu-backend/build/
+cafe-menu-frontend/dist/
+cafe-menu-backend/dist/
+
+# Miscellaneous files
+.DS_Store
+
+# Ignore VS Code settings
+.vscode/
+
