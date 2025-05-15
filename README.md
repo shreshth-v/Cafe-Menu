@@ -4,7 +4,7 @@ This project is a Cafe Menu Management Application built using the MERN stack (M
 
 ---
 
-🔗 [Live Demo]
+🔗 [Live Demo](https://cafe-menu-frontend-self.vercel.app)
 
 ---
 
@@ -22,7 +22,7 @@ This project is a Cafe Menu Management Application built using the MERN stack (M
 ### 1. Clone the repository:
 
 ```bash
-git clone
+git clone https://github.com/shreshth-v/Cafe-Menu
 cd USER MANAGEMENT
 ```
 
